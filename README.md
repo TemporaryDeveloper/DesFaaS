@@ -32,4 +32,4 @@ You could use StateRW class we provide to access state data of DesFaaS, contruct
 
 Here is the doc of the StateRW class:
 
-[StateRW.md](https://github.com/TemporaryDeveloper/DesFaaS/blob/main/docs/StateRW.md)
+[StateRW.md](https://github.com/TemporaryDeveloper/DesFaaS/blob/main/docs/stateRW.md)
